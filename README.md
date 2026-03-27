@@ -26,10 +26,8 @@ interface.
     |-- login.js
     |-- script.js
     |-- style.css
-    │── netlify.toml
-    └── netlify/
-        └── functions/
-            └── news.js
+    └── api/
+        └── news.js
 
 ## 🛠️ Tech Stack
 
